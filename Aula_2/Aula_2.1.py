@@ -43,13 +43,13 @@ elif num3 > num1:
         print("num 3 é o maior")
 else:
     if num1 < num2:
-    if num1<num3:
-        print("num 1 é o menor")
+        if num1 < num3:
+            print("num 1 é o menor")
     elif num2 < num1:
-    if num2 < num3:
-        print("num 2 é o menor")
+        if num2 < num3:
+            print("num 2 é o menor")
     elif num3 < num1:
-    if num3 < num2:
-        print("num 3 é o menor")
+        if num3 < num2:
+            print("num 3 é o menor")
 
 

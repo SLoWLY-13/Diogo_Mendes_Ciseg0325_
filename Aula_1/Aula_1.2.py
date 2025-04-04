@@ -14,6 +14,6 @@ total=0
 num1 = int(input("Numero 1:"))
 num2 = int(input("Numero 2:"))
 
-print("Tipo do Numero1:",type(num1),"\nTipo do Numero:"type(num2))
+print("Tipo do Numero1:",type(num1),"\nTipo do Numero:"+str(type(num2)))
 total=num1+num2
 print ("A soma do dois é:",total)
