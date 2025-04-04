@@ -1,0 +1,1 @@
+# Exercício 2: Fazer um programa que analise 3 valores inteiros (através das variáveis num1, num2 e num3), e informa qual o maior e qual o menor deles.  
