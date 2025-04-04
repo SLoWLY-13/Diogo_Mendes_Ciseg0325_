@@ -4,9 +4,9 @@ num1=0
 num2=0
 num3=0
 
-num1=int(input("Digite um primeiro numero: "))
-num2=int(input("Digite um segundo numero:"))
-num3=int(input("Digite um terceiro numero:"))
+num1=int(input("Primeiro numero: "))
+num2=int(input("Segundo numero:"))
+num3=int(input("Terceiro numero:"))
 
 
 if num1 > num2 and num2 > num3:
